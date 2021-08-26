@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wanghaoqi.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-08-26T02:07:14.974Z</updated>
+    <title>孤独的孔乙己</title>
+    <updated>2021-08-26T02:13:44.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wanghaoqi.github.io/"/>
     <link rel="self" href="https://wanghaoqi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>孤独的孔乙己</subtitle>
     <logo>https://wanghaoqi.github.io/images/avatar.png</logo>
     <icon>https://wanghaoqi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 孤独的孔乙己</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wanghaoqi.github.io/post/hello-gridea/</id>
